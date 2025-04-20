@@ -1,0 +1,101 @@
+product_id,product_name,description,category,price,color,size,brand,rating,review_count
+1,Floral Print Maxi Dress,Elegant maxi dress with a vibrant floral pattern. Perfect for summer parties.,Dresses,89.99,"Blue,Pink"," S,M,L",Chic Couture,4.5,120
+2,Striped Off-Shoulder Top,Casual off-shoulder top with classic black and white stripes.,Tops,34.99,"Black, White","XS,S,M,L",Style Haven,4.2,80
+3,Skinny Jeans,High-rise skinny jeans in dark wash denim. Comfortable and stylish!,Bottoms,59.99,Indigo,S,Levi's,4,150
+4,Lace Overlay Skirt,Feminine lace overlay skirt with a scalloped hem. Great for special occasions.,Skirts,49.99,Ivory,"S,M,L,XL",Belle Femme,4.8,200
+5,Printed Palazzo Pants,Wide-leg palazzo pants with a colorful abstract print. Lightweight and breezy!,Bottoms,42.99,Multicolor,"S,M,L",Boho Vibes,4.3,100
+6,Classic Denim Jacket,Timeless denim jacket with a faded wash and button-front closure.,Jackets,69.99,Denim Blue,"XS,S,M,L",Everyday Denim,4.7,180
+7,Flowy Floral Blouse,Flowy blouse featuring a delicate floral print and tie-neck detail.,Tops,39.99,Floral Print,"S,M,L,XL",Flower Child,4.4,150
+8,Knit Sweater Dress,Cozy knit sweater dress with a ribbed texture. Perfect for chilly days.,Dresses,54.99,Charcoal Gray,"S,M,L,XL",Cozy Chic,4.6,160
+9,Cropped Cargo Pants,Cropped cargo pants with multiple pockets and adjustable drawstring cuffs.,Bottoms,49.99,Olive Green,"S,M,L",Utility Co.,4.1,120
+10,Polka Dot Wrap Dress,Chic wrap dress featuring a classic polka dot print and tie-waist closure.,Dresses,79.99,"Black, White","XS,S,M,L,Xl",Polka Chic,4.5,200
+11,Embroidered Denim Shorts,Denim shorts with intricate floral embroidery and frayed hem.,Shorts,29.99,Light Wash Blue,"S,M,L,XL",Summer Breeze,4.3,100
+12,Printed Kimono,Lightweight kimono featuring a vibrant printed design. Adds a pop of color to any outfit!,Outerwear,44.99,Tropical Print,One Size,Festival Finds,4.2,90
+13,Striped Linen Shirt,Breathable linen shirt with classic blue and white stripes. Perfect for casual wear.,Tops,29.99,"Blue, White","S,M,L,XL",Seaside Style,4.6,140
+14,Floral Embroidered Blouse,Bohemian-style blouse featuring intricate floral embroidery and tassel ties.,Tops,49.99,Off White,"S,M,L",Free Spirit,4.4,160
+15,High-Waisted Wide-Leg Pants,Flowy wide-leg pants with a flattering high-waisted silhouette.,Bottoms,39.99,Black,"S,M,L,XL",Urban Elegance,4.5,180
+16,Button-Front Midi Skirt,Chic midi skirt with a button-front closure and tie-waist detail.,Skirts,34.99,Navy Blue,"S,M,L",Classic Chic,4.3,130
+17,Ribbed Knit Crop Top,Cropped knit top with a ribbed texture and scoop neckline. Perfect for layering!,Tops,24.99,Charcoal Gray,"S,M,L",Everyday Basics,4.1,100
+18,Camo Print Utility Jacket,Stylish utility jacket featuring a trendy camo print and multiple pockets.,Jackets,79.99,Camo Print,"S,M,L,XL",Adventure Gear,4.7,200
+19,Floral Print Midi Dress,Feminine midi dress with a colorful floral print and adjustable spaghetti straps.,Dresses,64.99,"Pink, Yellow","S,M,L,XL",Summer Blossom,4.4,170
+20,Distressed Boyfriend Jeans,Relaxed-fit boyfriend jeans with distressed detailing and rolled cuffs.,Bottoms,49.99,Light Blue Wash,"S,M,L,XL",Distressed Denim,4.2,150
+21,Wrap Front Crop Top,Trendy crop top featuring a wrap front design and adjustable tie closure.,Tops,19.99,White,"S,M,L,XL",Wrap It Up,4,90
+22,Floral Print Wrap Skirt,Flowy wrap skirt with a vibrant floral print and ruffle hem detail.,Skirts,44.99,"Red, Pink, Green","S,M,L",Flower Power,4.6,190
+23,Knit Cardigan Sweater,Cozy knit cardigan sweater with an open-front design. Perfect for layering.,Sweaters,49.99,Heather Gray,"S,M,L,XL",Cozy Comfort,4.3,130
+24,Ruffled Sleeve Blouse,Chic blouse featuring ruffled sleeves and a tie-neck detail. Perfect for work or play!,Tops,34.99,Burgundy,"S,M,L,XL",Feminine Flair,4.5,170
+25,High-Rise Flare Jeans,High-rise flare jeans with a retro-inspired silhouette. Adds length and flare to any outfit!,Bottoms,54.99,Medium Wash Blue,"S,M,L",Flare Up,4.4,160
+26,Knit Midi Dress,Versatile knit midi dress with a figure-flattering silhouette. Dress it up or down!,Dresses,39.99,Black,"S,M,L,XL",Knit Chic,4.2,140
+27,Button-Front Denim Skirt,Classic denim skirt with a button-front closure and raw-edge hem.,Skirts,39.99,Dark Wash Blue,"S,M,L",Denim Delight,4.3,150
+28,Striped Boatneck Top,Breton-style boatneck top with classic navy blue and white stripes.,Tops,29.99,"Navy Blue, White","S,M,L,XL",Maritime Style,4.1,120
+29,Printed Shift Dress,Easy-to-wear shift dress with a colorful printed design. Effortlessly stylish!,Dresses,44.99,Tropical Print,"S,M,L,XL",Island Vibes,4.6,180
+30,Cropped Wide-Leg Pants,Trendy cropped wide-leg pants with a comfortable elastic waistband.,Bottoms,34.99,Black,"S,M,L,XL",Modern Edge,4.3,140
+31,Embroidered Peasant Blouse,Bohemian-inspired peasant blouse featuring intricate embroidery and tassel ties.,Tops,39.99,Ivory,"S,M,L,XL",Boho Chic,4.5,190
+32,Distressed Denim Skirt,Denim skirt with distressed detailing and a frayed hem. Adds a touch of edge to any outfit!,Skirts,34.99,Light Wash Blue,"S,M,L,XL",Edgy Denim,4.4,170
+33,Cowl Neck Sweater,Cozy cowl neck sweater with a relaxed fit and ribbed detailing.,Sweaters,44.99,Charcoal Gray,"S,M,L,XL",Cozy Vibes,4.2,150
+34,Tie-Dye Maxi Dress,Trendy tie-dye maxi dress with a bohemian-inspired vibe. Perfect for summer festivals!,Dresses,59.99,"Blue, Purple","S,M,L,XL",Boho Babe,4.4,160
+35,High-Rise Denim Shorts,High-rise denim shorts with a frayed hem and distressed detailing. Effortlessly cool!,Shorts,29.99,Medium Wash Blue,"S,M,L,XL",Cool Vibes,4.1,130
+36,Wrap Front Jumpsuit,Chic wrap front jumpsuit with a tie-waist closure and wide-leg silhouette.,Jumpsuits,54.99,Black,"S,M,L,XL",Wrap It Up,4.3,170
+37,Knit Turtleneck Sweater,Cozy knit turtleneck sweater with a relaxed fit. Perfect for chilly days!,Sweaters,49.99,Black,"S,M,L,XL",Knit Cozy,4.2,160
+38,Linen Blend Wide-Leg Pants,Breathable linen blend pants with a wide-leg silhouette. Effortlessly stylish and comfortable!,Bottoms,39.99,Beige,"S,M,L,XL",Linen Loft,4.5,180
+39,Floral Print Wrap Dress,Elegant wrap dress with a vibrant floral print. Perfect for weddings or special occasions.,Dresses,69.99,"Red, Pink,Blue","S,M,L,XL",Blooming Beauty,4.6,190
+40,Striped Sweater,Classic striped sweater with a crew neckline and ribbed cuffs. Timeless and versatile!,Sweaters,39.99,"Navy Blue, White","S,M,L,XL",Classic Stripes,4.3,150
+41,Lace Trim Cami,Feminine cami top with delicate lace trim detailing. Perfect for layering or wearing on its own!,Tops,24.99,Black,"S,M,L,XL",Lacy Chic,4.2,140
+42,Embroidered Maxi Skirt,Bohemian-inspired maxi skirt featuring intricate embroidery and a tiered design.,Skirts,59.99,"Black,Pink,Blue","S,M,L,XL",Boho Beauty,4.5,170
+43,Knit Button-Front Cardigan,Cozy knit cardigan with a button-front closure and ribbed trim. Perfect for layering!,Sweaters,44.99,Heather Gray,"S,M,L,XL",Knit Comfort,4.4,180
+44,Cropped Utility Jacket,Stylish cropped utility jacket with multiple pockets and a drawstring waist. Perfect for casual wear!,Jackets,59.99,Olive Green,"S,M,L,XL",Utility Chic,4.3,190
+45,Floral Print Peasant Blouse,Bohemian-style peasant blouse featuring a colorful floral print and tassel ties.,Tops,34.99,"Red, Pink, Blue","S,M,L,XL",Flower Power,4.2,160
+46,Distressed Skinny Jeans,Distressed skinny jeans with a faded wash and ripped detailing. Effortlessly cool and edgy!,Bottoms,49.99,Light Wash Blue,"S,M,L,XL",Edgy Denim,4.1,140
+47,Ribbed Knit Midi Dress,Figure-hugging ribbed knit midi dress with a scoop neckline. Perfect for date nights!,Dresses,49.99,Burgundy,"S,M,L,XL",Knit Chic,4,120
+48,Printed Wide-Leg Jumpsuit,Statement-making wide-leg jumpsuit with a colorful printed design. Perfect for bold fashionistas!,Jumpsuits,64.99,Floral Print,"S,M,L,XL",Print Parade,4.3,170
+49,Button-Front Denim Dress,Classic denim dress with a button-front closure and waist tie detail. Timeless and versatile!,Dresses,54.99,Medium Wash Blue,"S,M,L,XL",Denim Delight,4.5,180
+50,Plaid Flannel Shirt,Cozy plaid flannel shirt with a button-front closure and chest pockets. Perfect for layering!,Tops,34.99,Red Plaid,"S,M,L,XL",Plaid Perfection,4.4,170
+51,Embroidered Off-Shoulder Top,Off-shoulder top with intricate embroidery and elasticized neckline. Perfect for summer!,Tops,39.99,White,"S,M,L,XL",Boho Chic,4.6,190
+52,Knit Tank Top,Soft knit tank top with a scoop neckline and relaxed fit. Perfect for everyday wear!,Tops,19.99,Heather Gray,"S,M,L,XL",Everyday Basics,4.2,150
+53,Floral Print Maxi Skirt,Flowy maxi skirt with a colorful floral print and tiered design. Effortlessly chic!,Skirts,49.99,"Pink, Blue, Yellow","S,M,L,XL",Flower Child,4.1,140
+54,High-Rise Straight Leg Jeans,Classic high-rise straight leg jeans with a medium wash. Timeless and versatile!,Bottoms,49.99,Medium Wash Blue,"S,M,L,XL",Classic Denim,4.3,160
+55,Striped Boatneck Sweater,Breton-style boatneck sweater with classic navy blue and white stripes. Timeless and versatile!,Sweaters,44.99,"Navy Blue, White","S,M,L,XL",Maritime Style,4.5,180
+56,Printed Wrap Blouse,Elegant wrap blouse with a colorful printed design and tie-waist closure. Perfect for work or play!,Tops,34.99,Floral Print,"S,M,L,XL",Printed Perfection,4.4,170
+57,Denim Mini Skirt,Classic denim mini skirt with a frayed hem and distressed detailing. Effortlessly cool!,Skirts,29.99,Medium Wash Blue,"S,M,L,XL",Denim Dream,4.3,150
+58,Floral Print Romper,Chic romper featuring a colorful floral print and tie-waist detail. Perfect for sunny days!,Jumpsuits,44.99,"Red, Pink, Blue","S,M,L,XL",Summer Blossom,4.1,130
+59,Striped Ribbed Knit Top,Striped ribbed knit top with a mock neckline and long sleeves. Perfect for layering!,Tops,29.99,"Navy Blue, White","S,M,L,XL",Striped Style,4,120
+60,Printed Palazzo Jumpsuit,Wide-leg palazzo jumpsuit with a colorful printed design. Effortlessly chic and stylish!,Jumpsuits,54.99,Multicolor,"S,M,L,XL",Print Parade,4.2,140
+61,Lace Trim Camisole,Feminine camisole top with delicate lace trim detailing. Perfect for layering or wearing on its own!,Tops,24.99,Ivory,"S,M,L,XL",Lacy Chic,4.4,160
+62,Chambray Button-Front Dress,Chic chambray dress with a button-front closure and waist tie detail. Effortlessly stylish!,Dresses,49.99,Light Blue,"S,M,L,XL",Chambray Chic,4.3,150
+63,Floral Embroidered Cardigan,Bohemian-style cardigan featuring intricate floral embroidery and button-front closure.,Sweaters,44.99,Beige,"S,M,L,XL",Boho Beauty,4.5,170
+64,Embroidered Boho Dress,Bohemian-style dress with intricate embroidery and flowy silhouette. Perfect for festivals!,Dresses,59.99,"Black, Red, Blue","S,M,L,XL",Boho Babe,4.6,190
+65,Button-Front Utility Skirt,Stylish utility skirt with a button-front closure and multiple pockets. Perfect for everyday wear!,Skirts,39.99,Olive Green,"S,M,L,XL",Utility Chic,4.7,200
+66,Printed Wrap Maxi Dress,Elegant wrap maxi dress with a colorful printed design. Perfect for special occasions!,Dresses,74.99,Floral Print,"S,M,L,XL",Printed Perfection,4.8,210
+67,Distressed Denim Jacket,Classic denim jacket with distressed detailing and button-front closure. Effortlessly cool!,Jackets,69.99,Light Wash Blue,"XS,S,M,L,XL",Distressed Denim,4.6,180
+68,Striped Off-Shoulder Dress,Chic off-shoulder dress with classic black and white stripes. Perfect for summer!,Dresses,49.99,"Black, White","S,M,L,XL",Striped Style,4.5,170
+69,Striped Ribbed Knit Dress,Striped ribbed knit dress with a mock neckline and long sleeves. Effortlessly chic and cozy!,Dresses,39.99,"Navy Blue, White","S,M,L,XL",Striped Style,4.3,160
+70,Embroidered Peasant Dress,Bohemian-style peasant dress with intricate embroidery and tassel ties. Perfect for summer!,Dresses,54.99,Off White,"S,M,L,XL",Boho Chic,4.2,150
+71,Lace Trim Slip Dress,Feminine slip dress with delicate lace trim detailing. Perfect for date nights or special occasions!,Dresses,44.99,Black,"S,M,L,XL",Lacy Chic,4.1,140
+72,Printed Bell Sleeve Top,Chic top featuring colorful printed design and dramatic bell sleeves. Effortlessly stylish!,Tops,34.99,Floral Print,"S,M,L,XL",Print Parade,4,130
+73,High-Waisted Paperbag Shorts,Trendy high-waisted paperbag shorts with a belted waist and cuffed hem. Perfect for summer!,Shorts,29.99,Black,"S,M,L,XL",Modern Edge,4.4,180
+74,Floral Embroidered Kimono,Bohemian-style kimono featuring intricate floral embroidery and flowy silhouette. Perfect for layering!,Outerwear,49.99,"Blue, Pink, Green",One Size,Boho Beauty,4.5,190
+75,Striped Linen Blend Pants,Breathable linen blend pants with classic blue and white stripes. Perfect for casual summer days!,Bottoms,39.99,"Blue, White","S,M,L,XL",Linen Loft,4.3,170
+76,Button-Front Midi Dress,Chic midi dress with a button-front closure and tie-waist detail. Effortlessly stylish!,Dresses,49.99,Black,"S,M,L,XL",Classic Chic,4.2,160
+77,Cropped Utility Pants,Stylish cropped utility pants with multiple pockets and drawstring cuffs. Perfect for outdoor adventures!,Bottoms,44.99,Khaki,"S,M,L,XL",Adventure Gear,4.1,150
+78,Floral Print Wrap Blouse,Elegant wrap blouse with a colorful floral print and tie-waist closure. Perfect for work or play!,Tops,34.99,"Red, Pink, Blue","S,M,L,XL",Blooming Beauty,4,140
+79,Striped Knit Skirt,Chic knit skirt with classic navy blue and white stripes. Effortlessly stylish and versatile!,Skirts,29.99,"Navy Blue, White","S,M,L,XL",Striped Style,4.5,200
+80,Embroidered Off-Shoulder Dress,Off-shoulder dress with intricate embroidery and elasticized neckline. Perfect for summer!,Dresses,54.99,White,"S,M,L,XL",Boho Chic,4.4,190
+81,Linen Blend Sleeveless Top,Breathable linen blend sleeveless top with a relaxed fit. Perfect for warm-weather days!,Tops,24.99,Beige,"S,M,L,XL",Linen Loft,4.3,180
+82,Printed Wide-Leg Pants,Wide-leg pants with a colorful printed design and elasticized waistband. Effortlessly chic!,Bottoms,39.99,Multicolor,"S,M,L,XL",Print Parade,4.2,170
+83,Floral Embroidered Maxi Dress,Bohemian-style maxi dress with intricate floral embroidery and flowy silhouette. Perfect for summer!,Dresses,69.99,Off White,"S,M,L,XL",Boho Beauty,4.1,160
+84,Lace Trim Tank Top,Feminine tank top with delicate lace trim detailing. Perfect for layering or wearing on its own!,Tops,19.99,Black,"S,M,L,XL",Lacy Chic,4,150
+85,Striped Knit Sweater,Striped knit sweater with a crew neckline and ribbed cuffs. Effortlessly stylish and cozy!,Sweaters,39.99,"Navy Blue, White","S,M,L,XL",Striped Style,4.6,140
+86,Printed Wide-Leg Jumpsuit,Wide-leg jumpsuit with a colorful printed design and adjustable spaghetti straps. Perfect for summer!,Jumpsuits,54.99,Floral Print,"S,M,L,XL",Print Parade,4.5,130
+87,Camo Print Cargo Pants,Stylish cargo pants with a trendy camo print and multiple pockets. Perfect for urban adventures!,Bottoms,49.99,Camo Print,"S,M,L,XL",Adventure Gear,4.4,120
+88,Floral Print Wrap Skirt,Wrap skirt with a colorful floral print and tie-waist closure. Effortlessly chic and feminine!,Skirts,34.99,"Red, Pink, Blue","S,M,L,XL",Blooming Beauty,4.3,110
+89,Button-Front Denim Jacket,Classic denim jacket with button-front closure and adjustable waist tabs. Perfect for layering!,Jackets,64.99,Medium Wash Blue,"XS,S,M,L,XL",Denim Delight,4.2,100
+90,Ribbed Knit Midi Dress,Ribbed knit midi dress with a mock neckline and long sleeves. Perfect for a chic and cozy look!,Dresses,39.99,Burgundy,"S,M,L,XL",Knit Chic,4.1,90
+91,Floral Print Wrap Blouse,Wrap blouse with a colorful floral print and tie-waist closure. Effortlessly chic and feminine!,Tops,29.99,"Red, Pink, Blue","S,M,L,XL",Blooming Beauty,4,80
+92,Striped Off-Shoulder Top,Off-shoulder top with classic navy blue and white stripes. Perfect for a chic and casual look!,Tops,24.99,"Navy Blue, White","S,M,L,XL",Striped Style,4.6,70
+93,Embroidered Maxi Dress,Maxi dress with intricate embroidery and flowy silhouette. Perfect for a bohemian-inspired look!,Dresses,69.99,Off White,"S,M,L,XL",Boho Beauty,4.5,60
+94,Lace Trim Cami,Cami top with delicate lace trim detailing. Perfect for layering or wearing on its own!,Tops,19.99,Black,"S,M,L,XL",Lacy Chic,4.4,50
+95,Floral Print Midi Skirt,Midi skirt with a colorful floral print and flowy silhouette. Perfect for a feminine and chic look!,Skirts,44.99,"Red, Pink, Blue","S,M,L,XL",Blooming Beauty,4.3,40
+96,Striped Ribbed Knit Dress,Ribbed knit dress with classic navy blue and white stripes. Perfect for a casual and stylish look!,Dresses,34.99,"Navy Blue, White","S,M,L,XL",Striped Style,4.2,30
+97,Embroidered Off-Shoulder Top,Off-shoulder top with intricate embroidery and elasticized neckline. Perfect for a bohemian-inspired look!,Tops,29.99,White,"S,M,L,XL",Boho Chic,4.1,20
+98,Linen Blend Wide-Leg Pants,Wide-leg pants with a breathable linen blend fabric and comfortable fit. Perfect for warm-weather days!,Bottoms,39.99,Beige,"S,M,L,XL",Linen Loft,4,10
+99,Printed Wrap Maxi Dress,Maxi dress with a colorful printed design and wrap front silhouette. Perfect for a bold and chic look!,Dresses,64.99,Floral Print,"S,M,L,XL",Print Parade,4.3,150
+100,Distressed Denim Skirt,Denim skirt with distressed detailing and frayed hem. Perfect for a casual and edgy look!,Skirts,34.99,Light Wash Blue,"S,M,L,XL",Distressed Denim,4.2,140
